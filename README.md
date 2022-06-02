@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
 - 👯 I’m looking forward to collaborate on open source projects.
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](www.github/sarath-pm)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 😄 Pronouns: He/Him/We
