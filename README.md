@@ -119,17 +119,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=chartreuse-dark&show_icons=true/460/300">
 
-<a href="https://github.com/sarath-pm/github-readme-stats">
-  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/sarath-pm/github-readme-stats">
-  <img align="center" width="400" src=https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=chartreuse-dark&show_icons=true&include_all_commits=0&count_private=0&hide_title=0" />
-</a>
-<a href="https://github.com/sarath-pm/github-readme-streak-stats">
-  <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=highcontrast" />
-</a>
-                                                                                                                                         
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/460/300"></p>
+
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=chartreuse-dark"/460/300"></p>
+
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
