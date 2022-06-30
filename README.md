@@ -6,15 +6,17 @@
 
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
 - 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
 - 👯 I’m looking forward to collaborate on open source projects.
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 😄 Pronouns: He/Him/We
-- ⚡ Coding fact: There are over 700 different programming languages.
+- ⚡ Coding fact: "There are over 700 different programming languages".
+- 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 <br>
 
@@ -137,6 +139,6 @@
 <a href="https://www.linkedin.com/in/sarath-p-m/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
 &nbsp;<a href="https://dev.to/sarath_pm" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" alt="sarath_pm" height="40" width="47" /></a>  
 &nbsp;<a href="mailto:sarath2375@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="sarath2375@gmail.com" width="40" /></a>      
-&nbsp;<a href="https://www.hackerrank.com/sarath2375" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath2375" height="40" width="45"></a>
+&nbsp;<a href="https://www.hackerrank.com/sarath_pm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath2375" height="40" width="45"></a>
 &nbsp;<a href="https://stackoverflow.com/users/19234611" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171333456-ac1d5e66-bd90-468b-a1bf-c030ba6a1fed.gif" alt="19234611" width="40" /></a>
 </p>
