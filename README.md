@@ -24,6 +24,8 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
+- ![youtube](https://user-images.githubusercontent.com/86669668/181796952-a89ef10f-4642-4b69-9d62-83282d71616c.png)  Impending informative videos [Work In Progress]
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
