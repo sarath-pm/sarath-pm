@@ -16,7 +16,7 @@
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm?tab=repositories)**
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
